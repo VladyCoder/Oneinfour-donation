@@ -191,10 +191,6 @@
         </div>
     </section>
 
-    <!--Google Map-->
-    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsKjrXDSj6NAtlQx7WFRYJMCtXB3DDUOQ"></script>-->
-    <!--<script src="js/gmaps.min.js"></script>-->
-
     <?php
         include "includes/donateForm.php";
         include "includes/newsletter.php";
